@@ -9,6 +9,8 @@
   margin-right: 20px;
   height: 190px;
   width: 190px;
+  border-radius: 8px;
+  border: none;
 }
 
 .profile__column {
@@ -44,7 +46,6 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
-
 }
 
 .profile__edit-btn {
@@ -79,7 +80,6 @@
   font-weight: 500;
   size: 16px;
   line-height: 16px;
-
 }
 
 .profile__edit-btn:hover {
@@ -107,8 +107,6 @@
     margin-right: 0;
     width: 80px;
     height: 80px;
-    border-radius: 8px;
-    border: none;
     margin: 0 0 12px;
   }
 
@@ -130,7 +128,7 @@
     line-height: 16px;
     font-weight: 500;
     margin: 0 0 32px;
-    max-width: 288px
+    max-width: 288px;
   }
 
   .profile__add-btn {
