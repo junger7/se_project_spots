@@ -16,12 +16,25 @@ For this project, I created an interactive social media web application where us
   
 * [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
   
-**Images**  
-  ![Desktop View](/images/1440px.jpeg)
+# Images
 
-  !![Mobile/Responsive](images/627px.jpeg)
+**Desktop, 1440px**
 
-  !!![Elipsis](images/elipsis.jpeg)
+<p align="center">
+  <img src="images/1440px.jpeg" alt="Project Screenshot, Desktop View">
+</p>
+ 
+**Mobile/Responsive, 627px**
+
+<p align="center">
+  <img src="images/627px.jpeg" alt="Project Screenshot, Mobile-Responsive">
+</p>
+
+**Elipsis, Mobile/Responsive**
+
+<p align="center">
+  <img src="images/elipsis.jpeg" alt="Project Screenshot, Elipsis, Mobile-Responsive">
+</p>
   
-**The Live Page**
-You can check out the page here: (https://github.com/junger7/se_project_spots.git)
+# The Live Page
+**You can check out the page here: (https://github.com/junger7/se_project_spots.git)**
