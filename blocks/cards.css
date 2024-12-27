@@ -1,0 +1,21 @@
+.cards {
+padding-top: 20px;
+}
+
+.cards__list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px 20px;
+}
+
+@media screen and (max-width: 627px) {
+
+  .cards__list {
+    display: flex;
+  }
+}
+
