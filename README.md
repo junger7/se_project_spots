@@ -37,4 +37,7 @@ For this project, I created an interactive social media web application where us
 </p>
   
 # The Live Page
-**You can check out the page here: (https://github.com/junger7/se_project_spots.git)**
+**You can check out the page here:(https://junger7.github.io/se_project_spots/)**
+
+# Video 
+[Video about project available here](https://drive.google.com/file/d/1POX8wdYk52OjKxMRgvzF7_d7CCU1IF9L/view?usp=sharing)

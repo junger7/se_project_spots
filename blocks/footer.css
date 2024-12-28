@@ -3,9 +3,10 @@
   font-size: 16px;
   font-weight: 400;
   line-height: 16px;
+  padding: 0 20px;
+  /* if i remove the padding the border in the footer is not responsive */
 
 }
-
 
 .footer__copyright {
   margin: auto;
@@ -19,7 +20,7 @@
 
 @media screen and (max-width:627px) {
   .footer__copyright {
-    margin-top: 20px; 
+    margin-top: 20px;
   }
 
 }
